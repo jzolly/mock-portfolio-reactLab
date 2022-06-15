@@ -1,0 +1,15 @@
+
+[
+    {
+      "name": "Hyrulean Korok Hunt",
+      "live": "https://jzolly.github.io/Legend-of-Zelda-A-Korok-Hunt/",
+      "git": "https://github.com/jzolly/Legend-of-Zelda-A-Korok-Hunt",
+      "image": "https://i.imgur.com/e8Mc7Rm.jpg"
+    },
+    {
+      "name": "Puppy Love",
+      "live": "https://puppylovejz.herokuapp.com/",
+      "git": "https://github.com/jzolly/Puppy-Love",
+      "image": "https://i.imgur.com/VjCkmu8.png"
+    }
+  ]
