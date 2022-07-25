@@ -10,6 +10,18 @@
       "name": "Puppy Love",
       "live": "https://puppylovejz.herokuapp.com/",
       "git": "https://github.com/jzolly/Puppy-Love",
-      "image": "https://i.imgur.com/VjCkmu8.png"
+      "image": "https://i.imgur.com/btqJ5pd.jpg"
+    }
+    {
+      "name": "PomoTom",
+      "live": "https://puppylovejz.herokuapp.com/",
+      "git": "https://github.com/krismally/pomo-frontend",
+      "image": "https://i.imgur.com/CrJjiiO.jpg"
+    }
+    {
+      "name": "compARTment",
+      "live": "https://compartment.herokuapp.com/",
+      "git": "https://github.com/jzolly/compARTment",
+      "image": "https://i.imgur.com/rc6ztb5.jpg"
     }
   ]
