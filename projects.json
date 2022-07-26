@@ -14,9 +14,15 @@
     },
     {
       "name": "PomoTom",
-      "live": "https://puppylovejz.herokuapp.com/",
+      "live": "https://pomotom.com/",
       "git": "https://github.com/krismally/pomo-frontend",
       "image": "https://i.imgur.com/CrJjiiO.jpg"
+    },
+    {
+      "name": "WildTennessee",
+      "live": "https://wildtennessee.herokuapp.com/",
+      "git": "https://github.com/jzolly/WildFlower",
+      "image": "https://i.imgur.com/mCz4Ii0.jpg"
     },
     {
       "name": "compARTment",
